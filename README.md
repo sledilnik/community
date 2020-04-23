@@ -21,7 +21,7 @@ Podatki: zajem in preverjanje (Data Management)
 [CSV in GitHub](https://github.com/slo-covid-19/data),
 [REST API in GitHub](https://github.com/slo-covid-19/data-api)
 
-### Glavne aktivnosti
+**Glavne aktivnosti**
 
 - Izboljšanje strukture za podatke o pacientih — `#data-patients` —
   tu potrebujemo predvsem pomoč pri zbiranju podatkov iz treh bolnišnic, virov, neuradnih informacij…
@@ -31,7 +31,7 @@ Podatki: zajem in preverjanje (Data Management)
 
 - Čiščenje starih zadev — `#data-cleanup`
 
-### Kje začeti?
+**Kje začeti?**
 
 1. Za razumevanje podatkov in modela:
    https://covid-19.sledilnik.org/#/about,
@@ -41,6 +41,8 @@ Podatki: zajem in preverjanje (Data Management)
 
 2. Vprašaj Luko Renka ali Bojana Koširja kako pomagati
 
+
+---
 
 
 Spletna stran in vizualizacije (Web site and Dataviz)
@@ -55,12 +57,14 @@ Spletna stran in vizualizacije (Web site and Dataviz)
 [website in GitHub](https://github.com/slo-covid-19/website),
 [issues in GitHub](https://github.com/slo-covid-19/website/issues)
 
-### Kje začeti?
+**Kje začeti?**
 
 Na strani kjer so zlistani taski za začetnike
 (če teh ni, javi na Slacku in bomo dodali):
 https://github.com/slo-covid-19/website/labels/good%20first%20issue
 
+
+---
 
 
 Družabna omrežja in PR (Social and PR)
@@ -82,13 +86,12 @@ Dokumenti:
 - Sledilnik One Pager (by @Sabina): [Na sledi COVID-19](https://docs.google.com/document/d/1ikzwF7ZoatR1nocEFLHQdjFuhMOA4n2hSLtRE5_13DY)
 - Press clipping, kao: [Gdocs, kao](https://docs.google.com/document/d/1yGCNxWHkSEmkvRlKWOFHUiYfK207XTW7fH9fHH-kYzs)
 
-### Kje začeti?
-
+**Kje začeti?***
 1. Prebrat linke zgoraj (komentiraj, dodaj, vprašaj)
 2. Prebrat FAQ na Sledilniku (smo kaj pozabili? Lahko kaj še poenostavimo?)
 3. Preorganizirat /Povezave na Sledilniku (top5 + dropdown)
 
-
+---
 
 Modeli in napovedi (Models and Predictions)
 -------------------------------------------
@@ -97,6 +100,5 @@ Modeli in napovedi (Models and Predictions)
 
 **[Slack](http://sledilnik.slack.com)**: #modeling #model-building
 
-### Kje začeti?
-
+**Kje začeti?**
 Napiši na #modeling kanal, če kdo potrebuje pomoč.
