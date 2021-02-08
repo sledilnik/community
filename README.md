@@ -96,7 +96,7 @@ Dokumenti:
 Modeli in napovedi (Models and Predictions)
 -------------------------------------------
 
-**Koordinacija**: Aleks Jakulin (Miha Kadunc)
+**Koordinacija**: Janez Žibert (Miha Kadunc)
 
 **[Slack](http://sledilnik.slack.com)**: #modeling #model-building
 
